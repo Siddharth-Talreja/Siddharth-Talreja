@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Siddharth Talreja currently studying Computer Engineering from Vivekanand Education Society's Institute of Technology. I am interested in development and learning about new technologies and tools.
+
+
+🌱 I’m currently learning ...
+
+Python, Javascript
+
+
+😄 Pronouns: ...
+
+ He/Him/His
+
